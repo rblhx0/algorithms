@@ -1,8 +1,8 @@
 #ifndef sort_h
 #define sort_h
 
-void selection_sort(int*, int );
-void insertion_sort(int*, int );
-void 		  print(int*, int );
+void selsort(int*, int );
+void inssort(int*, int );
+void print(int*, int );
 
 #endif
